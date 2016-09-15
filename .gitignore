@@ -1,0 +1,24 @@
+### Intellij ###
+
+# User-specific stuff:
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/gradle-wrapper.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/modules
+.idea/copyright
+.idea/libraries/*
+
+gradle.xml
+gradlew
+gradlew.bat
+gradle-wrapper.jar
+gradle-wrapper.properties
+settings.gradle
+
+uiDesigner.xml
